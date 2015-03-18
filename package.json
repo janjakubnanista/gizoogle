@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "mocha test/*_test.js",
-    "tdd": "mocha --watch test/*_test.js --watch src/*.js test/*_test.js"
+    "tdd": "mocha --watch test"
   },
   "repository": {
     "type": "git",
