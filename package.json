@@ -1,0 +1,29 @@
+{
+  "name": "gizoogle",
+  "version": "0.0.1",
+  "description": "Node.js interface for gixoogle.net - Snoop Dogg style translator",
+  "main": "src/gizoogle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janjakubnanista/gizoogle.git"
+  },
+  "keywords": [
+    "Gizoogle",
+    "Gangsta",
+    "Translator",
+    "\"Snoop",
+    "Dogg\""
+  ],
+  "author": "Ján Naništa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janjakubnanista/gizoogle/issues"
+  },
+  "homepage": "https://github.com/janjakubnanista/gizoogle"
+}
