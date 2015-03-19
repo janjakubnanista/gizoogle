@@ -12,15 +12,13 @@ To install via npm, please run
 
 ## Usage
 
-*For jolokia documentation please check their [offical website](http://www.jolokia.org/reference/html/).*
-
     var G = require('gizoogle');
-    
+
     // To translate a string
     G.string('hello world', function(error, translation) {
     	...
     });
-    
+
     // To translate a website
     G.website('http://google.com', function(error, translation) {
     	...
