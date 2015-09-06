@@ -8,7 +8,7 @@ var HOSTNAME = 'gizoogle.net';
 
 function createRequest(path, payload, callback) {
     return http.request({
-        protocol: 'http',
+        protocol: 'http:',
         hostname: HOSTNAME,
         port: 80,
         path: path,
