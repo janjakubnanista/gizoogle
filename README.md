@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/janjakubnanista/gizoogle.svg)](https://travis-ci.org/janjakubnanista/gizoogle)
 
 [Gizoogle.net](http://gizoogle.net) translates a string or a complete website to a Snoop Dogg like slang. Since it lacks an API and of course you want to use it in your JavaScript projects, I have created this Node.js interface to help you out.
+If you're using Slack you might like [`gizoogle-slack`](https://github.com/janjakubnanista/gizoogle-slack) - gizoogle Slack integration module.
 
 ## Installation
 
