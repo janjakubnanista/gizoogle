@@ -1,6 +1,6 @@
 {
   "name": "gizoogle",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Node.js interface for gizoogle.net - Snoop Dogg style translator",
   "main": "src/gizoogle.js",
   "directories": {
